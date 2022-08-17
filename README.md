@@ -1,2 +1,15 @@
-# Sele-o-Escribo
-Implemente uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+# <center> Seleção Escribo </center>
+
+## Web
+Para testar o código pela web:
+1. Abra o site : https://dart.dev/#try-dart
+2. Copie e cole o codigo e clique para executar.
+
+## Desktop
+1. Instale o dart através do link: https://dart.dev/get-dart.
+2. Execute o codigo no terminal.
+```
+$ dart main.dart
+```
+
+
