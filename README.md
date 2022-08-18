@@ -3,14 +3,14 @@
 ## Web
 Para testar o código pela web:
 1. Abra o site : https://dart.dev/#try-dart
-2. Copie e cole o codigo e clique para executar.
+2. Copie e cole o codigo do arquivo selecaoEscribo.dart e clique para executar.
 
 ## Desktop
 1. Instale o dart através do link: https://dart.dev/get-dart.
 2. Execute o codigo no terminal.
 ```
-$ dart main.dart
+$ dart selecaoEscribo.dart
 ```
 ### Observações
- O número usado de exemplo foi 11, para alterar é necessário trocar o valor da variavel numeroInicial
+ O número usado de exemplo foi 10, para alterar é necessário trocar o valor da variavel numeroInicial
 
