@@ -11,5 +11,6 @@ Para testar o código pela web:
 ```
 $ dart main.dart
 ```
-
+### Observações
+ O número usado de exemplo foi 11, para alterar é necessário trocar o valor da variavel numeroInicial
 
